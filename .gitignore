@@ -1,0 +1,12 @@
+# Frontend
+node_modules/
+dist/
+build/
+
+# Backend
+venv/
+__pycache__/
+
+# General
+.env
+*.log
